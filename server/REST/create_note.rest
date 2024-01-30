@@ -1,0 +1,7 @@
+POST http://localhost:4000/api/notes
+Content-Type: application/json
+
+{
+  "title":"Building RESTful APi using Node and Express",
+  "important": true
+}
